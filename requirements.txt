@@ -1,0 +1,7 @@
+gradio
+python-docx
+gigachain
+unstructured[all-docs]
+pyvis
+pyalex
+duckduckgo-search
